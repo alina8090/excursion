@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+h1, h2, h3 {
+  color: white;
+  font-family: Verdana;
+}
+
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+}
+
+#travelgide h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#comingsoon h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
+}
+
+#footer p {
+  text-align: right;
+}
